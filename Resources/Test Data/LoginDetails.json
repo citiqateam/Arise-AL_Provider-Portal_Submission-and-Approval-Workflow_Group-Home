@@ -1,0 +1,30 @@
+[
+{
+"username" : "TestGroupHome1@sharklasers.com",
+"EmailIDforThirdParty" : "TestGroupHome1",
+"password" : "Pass@123",
+"providerName" : "Jones Henry ",
+"FirstName": "Henry",
+"LastName": "Jones",
+"DateOfBirth": "01/25/1977",
+"Gender": "Male",
+"LicenseName": "TestGroupHome1",
+
+"URL": "https://al-arise-qa-publicaccess.citigovcloud.com/Account/Login?ReturnUrl=%2FAccount%2FLogOff"
+
+}, 
+
+{
+"username" : "TestGroupHome2@sharklasers.com",
+"EmailIDforThirdParty" : "TestGroupHome2",
+"password" : "Pass@123",
+"providerName" : "Wilson Hazel ",
+"FirstName": "Hazel",
+"LastName": "Wilson",
+"DateOfBirth": "02/12/2000",
+"Gender": "Female",
+"LicenseName": "TestGroupHome2",
+
+"URL": "https://al-arise-qa-publicaccess.citigovcloud.com/Account/Login?ReturnUrl=%2FAccount%2FLogOff"
+}
+]
